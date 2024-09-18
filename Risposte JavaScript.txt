@@ -1,0 +1,9 @@
+1. Cos'è un algoritmo?
+Un algoritmo è come una lista di cose da fare per raggiungere un obiettivo. Immagina di spiegare a qualcuno come fare una pizza: "Prima impasta la farina, poi stendi la pasta, aggiungi il pomodoro e la mozzarella, e infine inforna." Ogni passo è necessario per arrivare al risultato finale, ed è così che funziona anche un algoritmo.
+________________________________________
+2. Cos'è una variabile?
+Una variabile è come un contenitore dove metti un’informazione che può cambiare. È un po' come se avessi una scatola con un’etichetta. In quella scatola puoi mettere, per esempio, un numero o una parola, e poi cambiarlo quando vuoi. Tipo, potresti avere una variabile chiamata "nome" e dentro ci metti "Marco", ma più tardi puoi cambiare il contenuto con "Luca."
+________________________________________
+3. Undefined e null sono la stessa cosa?
+No, undefined e null sono cose diverse. Undefined vuol dire che qualcosa non ha ancora ricevuto un valore, come se aprissi una scatola e trovassi che è vuota perché nessuno ci ha messo nulla dentro. Null, invece, è quando sai che quella scatola è vuota di proposito, cioè hai deciso tu di lasciarla senza nulla.
+
